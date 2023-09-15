@@ -2,7 +2,7 @@
 
 This repository includes the MATLAB codes to implement the experimental results of the following paper:
 
-1) L. F. Toso, H. Wang, J. Anderson (2023). "Oracle Complexity Reduction for Model-free LQR: A Stochastic Variance-Reduced Policy Gradient Approach"
+1) L. F. Toso, H. Wang, J. Anderson (2023). [Oracle Complexity Reduction for Model-free LQR: A Stochastic Variance-Reduced Policy Gradient Approach]
 
 ## Instructions
 
